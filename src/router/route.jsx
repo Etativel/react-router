@@ -13,7 +13,7 @@ const routes = [
     element: <Profile />,
   },
   {
-    path: "profile/:string",
+    path: "profile/:name",
     element: <Profile />,
   },
 ];
